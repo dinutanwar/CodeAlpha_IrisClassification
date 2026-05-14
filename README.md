@@ -121,7 +121,7 @@ python iris_classification.py
 ## 📧 Contact
 
 - **Internship**: CodeAlpha (www.codealpha.tech)
-- **LinkedIn**: (linkedin.com/in/dinesh-tanwar-426a333a9)
+- **LinkedIn**: linkedin.com/in/dinesh-tanwar-426a333a9
 
 ---
 
