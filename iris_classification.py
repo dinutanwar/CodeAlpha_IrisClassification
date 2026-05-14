@@ -3,10 +3,6 @@ Iris Flower Classification - CodeAlpha Data Science Internship
 ===============================================================
 Task 1: Train a machine learning model using Scikit-learn to classify 
 flower species (setosa, versicolor, virginica) based on measurements.
-
-Author: [Your Name]
-Internship: CodeAlpha Data Science Internship
-Date: May 2026
 """
 
 # Import necessary libraries
